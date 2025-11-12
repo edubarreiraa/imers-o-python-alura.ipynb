@@ -21,7 +21,9 @@ Durante o projeto, pude aprimorar habilidades em:
 <img width="1920" height="1036" alt="image" src="https://github.com/user-attachments/assets/84b4f309-a3c9-438f-b612-f2208f89ec78" />
 
 ## Execução
-Necessário instalar as bibliotecas 
-   pip install streamlit pandas plotly
-   streamlit run app.py
+- Necessário instalar as bibliotecas. 
+
+ pip install streamlit pandas plotly
+ 
+ streamlit run app.py
 
